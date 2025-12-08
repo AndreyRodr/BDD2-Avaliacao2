@@ -2,6 +2,8 @@
 
 ## 🛡️ Credit Card Fraud Detection Pipeline & Data Lakehouse
 
+### 🛠️ Tecnologias e Ferramentas
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-red?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker&logoColor=white)
