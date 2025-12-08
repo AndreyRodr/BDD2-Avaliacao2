@@ -13,7 +13,7 @@
 
 > **Projeto Acadêmico - IFSP Jacareí (2025)** > **Disciplina:** Banco de Dados 2
 
----
+----
 
 ## 📋 Sobre o Projeto
 
