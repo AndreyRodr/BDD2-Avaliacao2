@@ -1,6 +1,6 @@
-## Avaliação 2 Banco de Dados
+# Avaliação 2 Banco de Dados
 
-# 🛡️ Credit Card Fraud Detection Pipeline & Data Lakehouse
+## 🛡️ Credit Card Fraud Detection Pipeline & Data Lakehouse
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-Orchestration-red?style=for-the-badge&logo=apacheairflow&logoColor=white)
