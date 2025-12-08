@@ -1,6 +1,6 @@
 # Avaliação 2 Banco de Dados
 
-## 🛡️ Credit Card Fraud Detection Pipeline & Data Lakehouse
+## Credit Card Fraud Detection Pipeline & Data Lakehouse
 
 ### 🛠️ Tecnologias e Ferramentas
 
