@@ -1,3 +1,5 @@
+## Avaliação 2 Banco de Dados
+
 # 🛡️ Credit Card Fraud Detection Pipeline & Data Lakehouse
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +38,7 @@ Para simular a complexidade real, o dataset original foi particionado em dois fl
 
 ## 🛠️ Tech Stack & Infraestrutura
 
-O desenvolvimento foi realizado remotamente via **VS Code (SSH)** conectado a uma Máquina Virtual, garantindo paridade entre os ambientes de desenvolvimento e produção.
+O desenvolvimento foi realizado remotamente via **VS Code ** conectado a uma Máquina Virtual, garantindo paridade entre os ambientes de desenvolvimento e produção.
 
 * **Sistema Operacional:** Ubuntu Server v25 (VM)
 * **Linguagem:** Python 3 (venv)
@@ -50,7 +52,7 @@ O desenvolvimento foi realizado remotamente via **VS Code (SSH)** conectado a um
 Com os dados consolidados na camada Gold, foi desenvolvido um modelo classificador para identificar transações fraudulentas.
 
 ### Escolha do Algoritmo: Random Forest Classifier
-Optou-se pelo método de *Ensemble* (Floresta Aleatória) devido a:
+Optou-se pelo método de *Ensemble* (Floresta Aleatória) que trás:
 1.  **Robustez ao Desbalanceamento:** O dataset possui apenas 136 fraudes contra 85.307 transações normais.
 2.  **Generalização (Bagging):** Redução de variância e prevenção de overfitting.
 3.  **Features Brutas:** Capacidade de lidar com variáveis numéricas sem necessidade de normalização excessiva.
@@ -81,3 +83,10 @@ O modelo foi treinado com 70% dos dados e testado com 30% (85.443 transações).
 
 ---
 *Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Jacareí*
+
+## ⚠️ Disclaimer
+
+Este projeto foi desenvolvido estritamente para fins acadêmicos como parte da disciplina de Banco de Dados 2 do IFSP - Jacareí.
+* **Fins Educacionais:** O objetivo principal é o aprendizado de arquiteturas de Data Lakehouse e Pipelines de ETL.
+* **Dados Fictícios:** Todos os dados de transações e cartões de crédito utilizados são simulados e não correspondem a dados reais de usuários.
+* **Uso:** Este projeto não possui fins lucrativos e não deve ser utilizado como uma solução financeira real em produção.
