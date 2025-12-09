@@ -216,4 +216,7 @@ Vá até o terminal onde o comando `airflow standalone` está rodando e pression
 | **Lucas Nascimento** | Desenvolvimento de Machine Learning |
 
 ---
+
+Relatório: https://docs.google.com/document/d/1SZa2B1aI8K2JSs6dGdbRFLZnRpKT9xBgowuJv8UCxcg/edit?usp=sharing
+Download da VM: https://drive.google.com/drive/folders/1oXU3hsBieiiEx-jDtZ2wdZOUmGHxZ8Nm?usp=sharing
 *Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Jacareí - 2025.2*
